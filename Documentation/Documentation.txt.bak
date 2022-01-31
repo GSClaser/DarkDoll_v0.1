@@ -1,0 +1,15 @@
+We have got a model with armature from mixamo,
+but this model has not got animation
+we can open mixamo and move model doll_v0.1.fbx to mixamo
+Press button upload character
+We can get some animation from mixamo
+And load it to Unity!
+For it action,we press download button
+And select fbx for unity
+Create test folder in unity
+And move downloaded file 
+Create testScene.unity into test folder and click twice
+can move doll under testScene
+We can also make animation controller and move doll.fbx to animation controller
+We get avatar from downloaded from mixamo model
+And press play

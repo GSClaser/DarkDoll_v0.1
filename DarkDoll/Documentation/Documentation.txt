@@ -1,0 +1,13 @@
+We have got a model doll_v0.1.fbx .But it have not got animation
+We can download animation from mixamo
+We upload character to mixamo,and can change animation
+We can download animation for unity
+After download,we can make test folder in project 
+Also,we need make animation controller
+And move animation file from download folder
+Click on testScene twice
+press f for focus to object and setup camera
+click on animation controller twice
+and move downloaded file 
+select controller and press play
+it works!
